@@ -383,3 +383,8 @@ The thesis was written at the [Professorship of Media Computer Science](http://w
 	LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 	OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 	THE SOFTWARE.
+
+
+ ## Pie Chart
+
+ This feature creates pie chart
